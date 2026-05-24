@@ -1,34 +1,18 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=600&height=70&lines=Tyler+Norcross;Software+Developer;AI+Agent+Builder;Full-Stack+Engineer)](https://github.com/NightGhost4)
+![terminal](./assets/terminal.svg)
 
 </div>
 
----
+## Hey, I'm Tyler
 
-```console
-tyler@portfolio:~$ whoami
-Tyler Norcross — Software Developer
+I dig into complex problems and build tools that people actually want to use.
 
-tyler@portfolio:~$ cat about.txt
-Building practical, production-quality tools with a focus on
-AI agents and full-stack applications. I care about clean
-architecture, readable code, and shipping things that work.
-
-tyler@portfolio:~$ ls projects/
-bag-sale/        design-agent/
-
-tyler@portfolio:~$ cat stack.txt
-languages : Python, JavaScript, TypeScript
-focus     : AI agents, full-stack web apps, developer tooling
-practices : clean architecture, testing, version-control hygiene
-
-tyler@portfolio:~$ _
-```
+I'm focused on **agentic AI** and **full-stack development** — I think a lot of the repetitive work we do today will soon be handled by autonomous agents, and I want to be one of the people building those systems.
 
 ---
 
-### `$ ls projects/ --detail`
+### Projects
 
 **[bag-sale](https://github.com/NightGhost4/bag-sale)** — Event management application
 Full-featured app for organizing and managing events, built with a clean, maintainable structure.
@@ -38,12 +22,18 @@ An AI agent for visual design tasks, packaged as a professional, employer-grade 
 
 ---
 
-### `$ cat contact.txt`
+### Tech Stack
 
-```
-email  : tylernorcross04@gmail.com
-github : github.com/NightGhost4
-```
+- **Languages:** Python, JavaScript, TypeScript
+- **Focus:** AI agents, full-stack web apps, developer tooling
+- **Practices:** Clean architecture, testing, version-control hygiene
+
+---
+
+### Contact
+
+- **Email:** tylernorcross04@gmail.com
+- **GitHub:** [@NightGhost4](https://github.com/NightGhost4)
 
 ---
 
