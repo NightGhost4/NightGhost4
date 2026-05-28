@@ -44,10 +44,3 @@ Machine learning model predicting match outcomes using recency-weighted multinom
 - **Email:** tylernorcross04@gmail.com
 - **GitHub:** [@NightGhost4](https://github.com/NightGhost4)
 
----
-
-<div align="center">
-
-![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=NightGhost4&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
-
-</div>
