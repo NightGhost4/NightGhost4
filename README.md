@@ -6,7 +6,7 @@
 
 ## Hey, I'm Tyler
 
-Software Engineer at **[SideShift](https://sideshift.app)** — the creator marketing platform brands use to run UGC campaigns end to end, from brief to payout.
+Currently building something new, and always open to a conversation. Previously a Software Engineer at **[SideShift](https://sideshift.app)** — the creator marketing platform brands use to run UGC campaigns end to end, from brief to payout.
 
 I dig into complex problems and build tools that people actually want to use.
 
